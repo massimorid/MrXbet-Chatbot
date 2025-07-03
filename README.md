@@ -26,7 +26,15 @@ Main components:
   4. FastText
 
      FastText will identify the intent of the user query. A classification algorithm will be run on every query before running the RAG as to make sure the query is related to the casino in some form
-       
+
+## Costs
+
+1. Embedding Model:
+   
+  ![image](https://github.com/user-attachments/assets/c182af15-d3ac-4029-8df7-6eb89d2aedef)
+
+
+
 ## Functional Requirements
 
 In this section of the document we will present what the chatbot assistant should do, how it should behave and what it should not do
