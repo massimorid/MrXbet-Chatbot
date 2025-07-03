@@ -46,5 +46,12 @@ In this section of the document we will present what the chatbot assistant shoul
 
   **FR7**: When the chatbot is uncertain of what to answer, the customer will bre redirected to CS.
 
+ 
+## Non Functional Requirements
+
   
+  **TBD based on Customer Needs**
+  
+## Security
+
 
