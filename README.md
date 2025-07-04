@@ -48,7 +48,7 @@ In this section of the document we will present what the chatbot assistant shoul
 
   **FR4**: The chatbot will respond to non-related querys with the following message "I cannot answer your question, I am only here to assist you with casino related-queries"
 
-  **FR5**: The chatbot will respond to gambling related queries with the following message "I cannot answer your question, I am not legally allowed to offer gamglind advice"
+  **FR5**: The chatbot will respond to gambling related queries with the following message "I cannot answer your question, I am not legally allowed to offer gamgling advice"
 
   **FR6**: The chatbot will redirect the conversation to CS if explicitly queried from the user
 
